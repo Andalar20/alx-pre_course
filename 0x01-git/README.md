@@ -1,1 +1,2 @@
-I am becoming
+I am becoming a software engineer
+This was challenging.
